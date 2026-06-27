@@ -65,7 +65,7 @@ Analytics at FAST-NUCES Lahore.
 - Pivot table analysis
 - Chart creation with insight-driven titles
 - KPI summarization
-- Multi-source data consolidation
+- Multi-source data consolidations
 
 ---
 
