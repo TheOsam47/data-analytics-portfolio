@@ -38,6 +38,10 @@ Analytics at FAST-NUCES Lahore.
 - Product C is significantly underperforming at $7,800 vs Product A
   at $31,500
 
+**Screenshots**
+  <img width="405" height="201" alt="Screenshot 2026-06-28 154330" src="https://github.com/user-attachments/assets/bb49728a-e65d-4176-acb1-1d0560b630c8" />
+  <img width="457" height="206" alt="image" src="https://github.com/user-attachments/assets/5951438e-9c93-4eb1-8f8f-13bd0df889bc" />
+  
 ---
 
 ### 2. User Data Cleaning & Country Analysis
@@ -57,6 +61,9 @@ Analytics at FAST-NUCES Lahore.
 - Dataset spans 20 countries across Europe, Asia, Americas, and Oceania
 - Successfully handled null values, encoding errors, and inconsistent
   ID formats across international records
+
+ **Screenshots**
+   <img width="583" height="257" alt="image" src="https://github.com/user-attachments/assets/4bca614d-5024-4925-a452-f995b7371e6c" />
 
 ---
 
