@@ -71,7 +71,6 @@ Analytics at FAST-NUCES Lahore.
 
 ---
 
-
 ## Skills Demonstrated
 - Data cleaning and structuring
 - Pivot table analysis
