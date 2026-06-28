@@ -65,7 +65,9 @@ Analytics at FAST-NUCES Lahore.
  **Screenshots**
    <img width="583" height="257" alt="image" src="https://github.com/user-attachments/assets/4bca614d-5024-4925-a452-f995b7371e6c" />
 
+
 ---
+
 
 ## Skills Demonstrated
 - Data cleaning and structuring
