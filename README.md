@@ -39,8 +39,7 @@ Analytics at FAST-NUCES Lahore.
   at $31,500
 
 **Screenshots**
-  
-  <img width="405" height="201" alt="Screenshot 2026-06-28 154330" src="https://github.com/user-attachments/assets/bb49728ae65d-4176-acb1-1d0560b630c8" />
+
   
   <img width="457" height="206" alt="image" src="https://github.com/user-attachments/assets/5951438e-9c93-4eb1-8f8f-13bd0df889bc" />
   
