@@ -15,6 +15,70 @@ Analytics at FAST-NUCES Lahore.
 
 ---
 
+### 1. Sales Reporting Dashboard
+**Tools:** Microsoft Excel, Pivot Tables, Charts
+
+**What I did:**
+- Took raw sales data of 20 orders across 4 salespersons, 4 regions,
+  and 4 products
+- Built a structured pivot table breaking down revenue by Region,
+  Salesperson, and Product
+- Created 3 charts: salesperson performance bar chart, product revenue
+  bar chart, and payment status pie chart
+- Identified key business insights from the data
+
+**Key Findings:**
+- Ahmed generates the highest individual revenue at $28,300 — 31% of
+  total sales
+- West and North are the top performing regions, together accounting
+  for 54% of total revenue
+- 73% of total revenue is from paid orders ($67,000 out of $91,800)
+- Product C is significantly underperforming at $7,800 vs Product A
+  at $31,500
+
+**Screenshots**
+
+  
+  <img width="457" height="206" alt="image" src="https://github.com/user-attachments/assets/5951438e-9c93-4eb1-8f8f-13bd0df889bc" />
+
+---
+
+  ### 2. User Data Cleaning & Country Analysis
+**Tools:** Microsoft Excel, Power Query, Pivot Tables
+
+**What I did:**
+- Received a raw dataset of 50 users with 33 messy columns including
+  encoding issues, null values, and inconsistent formatting
+- Cleaned and restructured the data into a professional format keeping
+  only relevant fields
+- Built a country-level pivot analysis showing user distribution across
+  20 countries
+
+**Key Findings:**
+- Switzerland has the highest user count at 5, followed by France,
+  India, and New Zealand at 4 each
+- Dataset spans 20 countries across Europe, Asia, Americas, and Oceania
+- Successfully handled null values, encoding errors, and inconsistent
+  ID formats across international records
+
+ **Screenshots**
+   
+   <img width="583" height="257" alt="image" src="https://github.com/user-attachments/assets/4bca614d-5024-4925-a452-f995b7371e6c" />
+
+
+### FIFA 21 Player & Club Value Dashboard
+**File:** `FIFA21 Dashboard.xlsx`
+
+**What I did:**
+- Cleaned a messy scraped dataset (18,979 rows) with multiple silent data issues:
+- Currency fields stored as text (€67.5M, €560K) — converted to numeric values
+- Free agents and loan players had non-standard formatting in the club/contract field — parsed correctly instead of breaking the split
+- Built two pivot tables + charts comparing squad Value vs Average Wage across top clubs
+
+**Key finding:** Liverpool has the highest squad value but a relatively low average wage — the most value-efficient squad in the top 10. Real Madrid pays the highest average wage despite lower total squad value.
+
+---
+
 ## Contact
 - LinkedIn: linkedin.com/in/usama-ahmed-023gama
 - Email: usamarafiq023@gmail.com
